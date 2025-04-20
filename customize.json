@@ -1,0 +1,30 @@
+{
+  "greeting": "Hai sayang,",
+  "name": "Bunga Nurgala Sri Trinita",
+  "greetingText": "Bertemu denganmu adalah takdir terindah dalam hidupku. Aku bersyukur setiap hari karena semesta mempertemukan kita.",
+  "wishText": "Semoga di setiap hembusan waktu, hatimu selalu dipeluk hangat oleh cinta, dan langkahmu selalu ditemani kebahagiaan yang tak bertepi.",
+  "imagePath": "img/bunga_5.jpg",
+  "text1": "Dihari kelahiranmu, hari di mana dunia menjadi lebih indah karena kehadiranmu. :)",
+  "textInChatBox": "Dengan segenap cinta di hatiku, aku mengucapkan: selamat ulang tahun, cinta! Semoga hidupmu dipenuhi tawa, damai, dan cinta yang tak pernah habis...",
+  "sendButtonLabel": "Peluk & Kirim",
+  "text2": "Aku ingin memberimu sesuatu yang lebih dari sekadar ucapan...",
+  "text3": "Sudah lama aku memikirkan ini dengan hati yang penuh harap",
+  "text4": "Karena aku ingin melakukan sesuatu yang benar-benar",
+  "text4Adjective": "bermakna dan tulus dari lubuk hatiku",
+  "text5Entry": "Karena,",
+  "text5Content": "kamu bukan hanya seseorang yang kucintai... kamu adalah rumah bagi hatiku.",
+  "smiley": "❤️",
+  "bigTextPart1": "Ci",
+  "bigTextPart2": "nta",
+  "wishHeading": "Selamat ulang tahun, cinta sejatiku!",
+  "outroText": "Aku berharap kamu merasakan cinta yang kutanam dalam kejutan kecil ini...",
+  "replayText": "Kalau hatimu tergerak, kamu boleh menontonnya lagi... dan biarkan cinta ini terus mengalir.",
+  "outroSmiley": "💖",
+  "music": "./music/niki.mp3",
+  "fonts": [
+    {
+      "name": "Poppins",
+      "path": "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"
+    }
+  ]
+}
